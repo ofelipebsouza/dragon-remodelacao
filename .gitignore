@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.astro/
+.vercel/
+.env*
+!.env.example
+/assets/
+baseline/
+review.patch
+styles.css
+script.js
+qa/status.json
+qa/*.png
