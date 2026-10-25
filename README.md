@@ -29,3 +29,7 @@ O formulário **não envia pedidos**: gera um resumo copiável, mantém os campo
 Migração do HTML estático do commit `29f42b844bf285ae4f65fc0be4b965ffa3b57171`, preservando o mesmo repositório e projeto Vercel. O design mantém azul-marinho/branco, Inter e Phosphor; corrige falsas atribuições das imagens, foto 404 e falso sucesso do formulário original.
 
 Publicação autorizada pelo proprietário em 25/10/2026. Domínios e permissões de acesso não alterados.
+
+## Paleta Portugal (25/10/2026)
+
+Verde `#00623b` nas zonas de marca, vermelho `#b5222a` nos botões/destaques (hover `#961c23`), base clara `#f7f6f0` e texto `#173c2b`. Azuis antigos substituídos também em cores secundárias, sombras, foco e theme-color. Layout, fotografias, conteúdos e funcionalidades mantidos. `python qa/contrast-check.py` verifica pares sólidos de texto, botões, foco e contornos de campos (WCAG AA); texto sobre fotografia requer verificação visual separada.
